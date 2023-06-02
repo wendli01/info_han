@@ -18,7 +18,7 @@ Complete experiments are stored in the notebooks for [node classification](exper
 
 ## Dataset
 
-The [TEAM-IP-1 Dataset](team_ip_1.zip)  described in the paper is also included in this repository.
+We use datasets from the [Heterogeneous Graph Benchmark](https://github.com/THUDM/HGB) introduced in [Are we really making much progress?: Revisiting, benchmarking and refining heterogeneous graph neural networks](https://dl.acm.org/doi/abs/10.1145/3447548.3467350) by Lv et al.
 
 ## Installation
 
