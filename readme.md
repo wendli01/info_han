@@ -47,7 +47,7 @@ All models and transformers are implemented as `sklearn` compatible Estimators.
 ```python
 from sklearn.metrics import f1_score
 from sklearn.model_selection import train_test_split
-from src import model, hgb_data, baseline, evaluate, layers
+from src import model, hgb_data, layers
 
 
 imdb_graph, imdb_labels, imdb_mask = hgb_data.load_graph('data/IMDB')
