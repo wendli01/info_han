@@ -1,6 +1,6 @@
-# Soft and Informed Heterogeneous Attention Networks for Meta-Path Based Learning
+# Informed Heterogeneous Attention Networks for Meta-Path Based Learning
 
-This repository accompanies the CIKM 2023 paper [Soft and Informed Heterogeneous Attention Networks for Meta-Path Based Learning]().
+This repository accompanies the CIKM 2023 paper [Informed Heterogeneous Attention Networks for Meta-Path Based Learning]().
 
 It contains all code as well as experimental setups described in the paper including results with all visualizations as standalone `jupyter` notebooks.
 
