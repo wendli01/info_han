@@ -1,6 +1,6 @@
 # Informed Heterogeneous Attention Networks for Meta-Path Based Learning
 
-This repository accompanies the CIKM 2023 paper [Informed Heterogeneous Attention Networks for Meta-Path Based Learning]().
+This repository accompanies the ACM SAC 2024 paper [Informed Heterogeneous Attention Networks for Meta-Path Based Learning]().
 
 It contains all code as well as experimental setups described in the paper including results with all visualizations as standalone `jupyter` notebooks.
 
@@ -58,5 +58,5 @@ ihan = model.HAGNN([["md", "dm"], ["ma", "am"]], conv_cls = layers.IHAConv, norm
 train_ind, test_ind = train_test_split(range(len(imdb_labels)))
 ihan.fit(imdb_graph, imdb_labels[train_ind], node_ids=imdb_mask[train_ind])
 y_pred = ihan.predict(imdb_graph)[imdb_mask][test_ind]
-f1_score(y[test_ind], y_pred, average='macro')
+f1_score(imdb_labels[test_ind], y_pred, average='macro')
 ```
