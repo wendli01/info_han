@@ -8,7 +8,11 @@ It contains all code as well as experimental setups described in the paper inclu
 If you use code, data or any results in this repository, please cite:
 
 ```bibtex
-@inproceedings{
+@inproceedings{wendlinger2024informed,
+  title={Informed Heterogeneous Attention Networks for Meta-Path Based Learning},
+  author={Wendlinger, Lorenz and Granitzer, Michael},
+  booktitle={Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing},
+  year={2024}
 }
 ```
 
