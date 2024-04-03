@@ -1,6 +1,6 @@
 # Informed Heterogeneous Attention Networks for Meta-Path Based Learning
 
-This repository accompanies the ACM SAC 2024 paper [Informed Heterogeneous Attention Networks for Meta-Path Based Learning]().
+This repository accompanies the ACM SAC 2024 paper [Informed Heterogeneous Attention Networks for Meta-Path Based Learning](https://doi.org/10.1145/3605098.3635890).
 
 It contains all code as well as experimental setups described in the paper including results with all visualizations as standalone `jupyter` notebooks.
 
@@ -8,7 +8,12 @@ It contains all code as well as experimental setups described in the paper inclu
 If you use code, data or any results in this repository, please cite:
 
 ```bibtex
-@inproceedings{
+@inproceedings{wendlinger2024informed,
+  title={Informed Heterogeneous Attention Networks for Metapath Based Learning},
+  author={Lorenz Wendlinger, Michael Granitzer},
+  booktitle={Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing},
+  pages={458--465},
+  year={2024}
 }
 ```
 
