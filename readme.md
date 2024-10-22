@@ -9,9 +9,10 @@ If you use code, data or any results in this repository, please cite:
 
 ```bibtex
 @inproceedings{wendlinger2024informed,
-  title={Informed Heterogeneous Attention Networks for Meta-Path Based Learning},
-  author={Wendlinger, Lorenz and Granitzer, Michael},
+  title={Informed Heterogeneous Attention Networks for Metapath Based Learning},
+  author={Lorenz Wendlinger, Michael Granitzer},
   booktitle={Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing},
+  pages={458--465},
   year={2024}
 }
 ```
