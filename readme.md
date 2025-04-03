@@ -1,6 +1,6 @@
 # Informed Heterogeneous Attention Networks for Meta-Path Based Learning
 
-This repository accompanies the ACM SAC 2024 paper [Informed Heterogeneous Attention Networks for Meta-Path Based Learning]().
+This repository accompanies the ACM SAC 2024 paper [Informed Heterogeneous Attention Networks for Meta-Path Based Learning](https://dl.acm.org/doi/abs/10.1145/3605098.3635890).
 
 It contains all code as well as experimental setups described in the paper including results with all visualizations as standalone `jupyter` notebooks.
 
